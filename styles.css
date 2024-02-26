@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: bisque;
+    margin: 0;
+    padding: 0;
+}
+header {
+    text-align: center;
+    background-color: rgb(232, 185, 128);
+    padding: 10px;
+}
+hr {
+    border-color: brown;
+    margin: 0;
+}
+main {
+    width: 75%;
+    float: left;
+}
+aside {
+    width: 23%;
+    float: right;
+    background-color: rgb(232, 185, 128);
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+h1 {
+    text-align: center;
+    color: brown;
+}
+h2 {
+    text-align: center;
+    color: brown;
+}
+h3 {
+    text-align: center;
+    color: brown;
+}
+.enlaces {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
