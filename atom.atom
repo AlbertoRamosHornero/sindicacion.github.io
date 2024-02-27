@@ -1,79 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Feed de Noticias sobre Langostas Azules</title>
-  <link href="Radastano13.github.io"/>
+  <link href="https://albertoramoshornero.github.io/sindicacion.github.io/"/>
   <author>
-    <name>Alejandro Montejo GÃ¡lvez</name>
+    <name>Alberto Ramos Hornero</name>
   </author>
-  <id>https://Radastano13.github.io</id>
-  <updated>2024-02-17T12:00:00Z</updated>
-  <category term="Langostas Azules"/>
+  <id>https://albertoramoshornero.github.io/sindicacion.github.io/</id>
+  <updated>2024-02-25T13:00:00Z</updated>
+  <category term="Noticias de actualidad"/>
   <rights>Derechos del Feed</rights>
 
   
 
   <entry>
-    <title>Langosta-noticia1</title>
-    <id>http://Langosta.com1</id>
-    <updated>2024-02-17T12:00:00Z</updated>
-    <link href="https://www.bbc.com/mundo/noticias/2016/05/160525_ciencia_langostas_azules_ilm"/>
+    <title>Jesse Baird</title>
+    <id>https://www.bbc.com/news/world-australia-68410026</id>
+    <updated>2024-02-25T13:00:00Z</updated>
+    <link href="https://www.bbc.com/news/world-australia-68410026"/>
     <author>
-      <name>a23mogaal@iesgrancapitan.org(Alejandro Montejo GÃ¡lvez)</name>
-      <uri>https://www.bbc.com/mundo/noticias/2016/05/160525_ciencia_langostas_azules_ilm</uri>
+      <name>a23rahoal@iesgrancapitan.org(Alberto Ramos Hornero)</name>
+      <uri>https://www.bbc.com/news/world-australia-68410026</uri>
     </author>
-    <content type="html">https://www.bbc.com/mundo/noticias/2016/05/160525_ciencia_langostas_azules_ilm</content>
-    <summary>Resumen de Langosta 1</summary>
+    <content type="html">https://www.bbc.com/news/world-australia-68410026</content>
+    <summary>Se encuentran restos humanos en la búsqueda de una pareja desaparecida en Sydney</summary>
   </entry>
   
 
   <entry>
-    <title>Langosta-noticia2</title>
-    <id>http://Langosta.com2</id>
-    <updated>2024-02-17T12:00:00Z</updated>
-    <link href="enlace_de_la_entrada_2"/>
+    <title>Guerra de Ucrania</title>
+    <id>https://www.bbc.com/news/world-europe-68413372</id>
+    <updated>2024-02-25T12:00:00Z</updated>
+    <link href="enlace_2"/>
     <author>
       <name>a23mogaal@iesgrancapitan.org(Alejandro Montejo GÃ¡lvez)</name>
-      <uri>enlace_del_autor_2</uri>
+      <uri>enlace_2</uri>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
+      <div xmlns="https://www.bbc.com/news/world-europe-68413372">
         <h2>Una corta noticia de langostas</h2>
-        <p>Las langostas azules son una variante fascinante dentro del mundo de estos crustÃ¡ceos. Aunque la mayorÃ­a de las langostas son de tonos mÃ¡s bien verdes o pardos, las langostas azules destacan por su inusual coloraciÃ³n, que puede variar desde un azul pÃ¡lido hasta un vibrante tono azul cobalto. Este fenÃ³meno se debe a una rara mutaciÃ³n genÃ©tica que afecta la producciÃ³n de pigmentos en su caparazÃ³n.</p>
-        <p>Estas langostas azules son especialmente llamativas tanto para los cientÃ­ficos como para los aficionados a la naturaleza, ya que son relativamente raras de encontrar en la naturaleza. A menudo se las encuentra en aguas mÃ¡s profundas y frÃ­as, donde su color azul puede proporcionar camuflaje contra el fondo oceÃ¡nico, o en arrecifes de coral donde su tono azulado se mezcla con el entorno marino.</p>
-        <p>AdemÃ¡s de su apariencia Ãºnica, las langostas azules comparten muchas caracterÃ­sticas con sus parientes mÃ¡s comunes. Son animales omnÃ­voros, alimentÃ¡ndose de una variedad de presas que incluyen pequeÃ±os peces, moluscos y algas marinas. TambiÃ©n juegan un papel importante en los ecosistemas marinos como depredadores y presas, contribuyendo al equilibrio de las poblaciones de otras especies y al mantenimiento de la salud de los hÃ¡bitats marinos.</p>
-        <p>En algunas culturas y regiones, las langostas azules son consideradas una exquisitez culinaria, aunque su rareza las hace menos comunes en la mesa que sus contrapartes mÃ¡s comunes. Sin embargo, su inusual coloraciÃ³n las convierte en un tema de interÃ©s para los acuaristas y los amantes de los acuarios marinos, que a menudo las buscan para exhibirlas en sus tanques domÃ©sticos.</p>
-        <p>En tÃ©rminos de conservaciÃ³n, las langostas azules enfrentan desafÃ­os similares a los de otras especies marinas. La degradaciÃ³n del hÃ¡bitat, la contaminaciÃ³n y la pesca excesiva pueden amenazar sus poblaciones, especialmente si son capturadas accidentalmente en artes de pesca dirigidas a otras especies. La investigaciÃ³n cientÃ­fica y la gestiÃ³n responsable de los recursos marinos son fundamentales para garantizar la supervivencia de estas y otras especies de langostas en el futuro.</p>
+        <p>El activista ruso de derechos humanos Oleg Orlov condenado a prisión</p>
+        <p>Habiendo mencionado el crimen, anunció el castigo: Oleg Orlov, copresidente de la organización "Memorial", ganadora del Premio Nobel de la Paz, fue enviado a prisión por dos años y medio.</p>
+        <p>Era una señal de que en Rusia las autoridades se estaban volviendo cada vez más intolerantes ante las críticas públicas.</p>
       </div>
     </content>
-    <summary>Resumen de Langosta 2</summary>
+    <summary>Noticia sobre Rusia</summary>
   </entry>
   
 
   <entry>
-    <title>Langosta-noticia3</title>
-    <id>http://Langosta.com3</id>
-    <updated>2024-02-17T12:00:00Z</updated>
-    <link href="https://radastano13.github.io/CURRICULUM%20VITAE.pdf"/>
+    <title>Cambio climático</title>
+    <id>https://www.bbc.com/news/science-environment-68406880</id>
+    <updated>2024-02-25T13:00:00Z</updated>
+    <link href="https://www.bbc.com/news/science-environment-68406880"/>
     <author>
-      <name>a23mogaal@iesgrancapitan.org(Alejandro Montejo GÃ¡lvez)</name>
-      <uri>https://radastano13.github.io/CURRICULUM%20VITAE.pdf</uri>
+      <name>a23rahoal@iesgrancapitan.org(Alberto Ramos Hornero)</name>
+      <uri>https://www.bbc.com/news/science-environment-68406880</uri>
     </author>
-    <content type="application/pdf" src="https://radastano13.github.io/CURRICULUM%20VITAE.pdf"/>
-    <summary>Resumen de Langosta 3</summary>
+    <content type="html">https://www.bbc.com/news/science-environment-68406880</content>
+    <summary>Las 'protuberancias de hielo' revelan la historia del derretimiento de la Antártida</summary>
   </entry>
-  
+
 
   <entry>
-    <title>Langosta-noticia4</title>
-    <id>http://Langosta.com4</id>
-    <updated>2024-02-17T12:00:00Z</updated>
-    <link href="https://radastano13.github.io/langostavideo.mp4"/>
+    <title>Reino Unido abandona tratado que permite a empresas petroleras demandar al gobierno</title>
+    <id>https://www.bbc.com/news/science-environment-68369916</id>
+    <updated>2024-02-25T13:00:00Z</updated>
+    <link href="https://www.bbc.com/news/science-environment-68369916"/>
     <author>
-      <name>a23mogaal@iesgrancapitan.org(Alejandro Montejo GÃ¡lvez)</name>
-      <uri>https://radastano13.github.io/langostavideo.mp4</uri>
+      <name>a23rahoal@iesgrancapitan.org(Alberto Ramos Hornero)</name>
+      <uri>https://www.bbc.com/news/science-environment-68369916</uri>
     </author>
-    <content type="video/mp4" src="https://radastano13.github.io/langostavideo.mp4"/>
-    <summary>Resumen de Langosta 4</summary>
+    <content type="html">https://www.bbc.com/news/science-environment-68369916</content>
+    <summary>El Reino Unido se ha retirado de un tratado internacional que permite a las empresas de combustibles fósiles demandar a los gobiernos que aplican políticas climáticas por miles de millones en compensación por la pérdida de ganancias.</summary>
   </entry>
   
 </feed>
