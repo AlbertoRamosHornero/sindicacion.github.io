@@ -3,37 +3,37 @@
 
   <channel>
     <title>Noticias de actualidad</title>
-    <link>./index.html</link>
+    <link>https://albertoramoshornero.github.io/sindicacion.github.io/</link>
     <category>Noticias</category>
     <description>Noticias generales de actualidad</description>
     <language>es-ES</language>
     <item>
-      <title>Descubren otra langosta azul</title>
-      <link>https://www.bbc.com/news/world-europe-jersey-60586336</link>
-      <description>Noticia interesante en ingles de una langosta azul</description>
-      <author>a23mogaal@iesgrancapitan.org(Alejandro Montejo Gálvez)</author>
-      <pubDate>Fri, 16 Feb 2024 08:00:00 GMT</pubDate>
+      <title>Guerra de Ucrania</title>
+      <link>https://www.bbc.com/news/uk-wales-68369946</link>
+      <description>Mineros galeses en el país para devolver la ayuda de 1984</description>
+      <author>a23rahoal@iesgrancapitan.org(Alberto Ramos Hornero)</author>
+      <pubDate>Sun, 25 Feb 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Noticia de langosta azul</title>
-      <link>https://www.bbc.com/news/uk-northern-ireland-64552224</link>
-      <description>Otra noticia sobre langostas azules</description>
-      <author>a23mogaal@iesgrancapitan.org(Alejandro Montejo Gálvez)</author>
-      <pubDate>Thu, 15 Feb 2024 10:00:00 GMT</pubDate>
+      <title>Myanmar</title>
+      <link>https://www.bbc.com/news/world-asia-68345291</link>
+      <description>Jóvenes intentan huir antes de la orden de reclutamiento</description>
+      <author>a23rahoal@iesgrancapitan.org(Alberto Ramos Hornero)</author>
+      <pubDate>Sun, 25 Feb 2024 11:30:00 GMT</pubDate>
     </item>
         <item>
-      <title>Y otra Noticia de langosta azul</title>
-      <link>https://www.t13.cl/noticia/tendencias/sorprendente-langosta-azul-aparecio-envio-mariscos-restaurante</link>
-      <description>Creeme,otra noticia sobre langostas azules</description>
-      <author>a23mogaal@iesgrancapitan.org(Alejandro Montejo Gálvez)</author>
-      <pubDate>Thu, 15 Feb 2024 10:00:00 GMT</pubDate>
+      <title>Protestas del NLC</title>
+      <link>https://www.bbc.com/news/world-africa-68402662</link>
+      <description>Por qué la economía de Nigeria está en tal desastre</description>
+      <author>a23rahoal@iesgrancapitan.org(Alberto Ramos Hornero)</author>
+      <pubDate>Sun, 25 Feb 2024 12:00:00 GMT</pubDate>
     </item>
         <item>
-      <title>Noticia super increible de una langosta azul</title>
-      <link>https://www.nauticalnewstoday.com/langosta-azul-capricho-naturaleza/</link>
-      <description>NOVEDADES sobre langostas azules</description>
-      <author>a23mogaal@iesgrancapitan.org(Alejandro Montejo Gálvez)</author>
-      <pubDate>Thu, 15 Feb 2024 10:00:00 GMT</pubDate>
+      <title>¿Branquias en voz alta?</title>
+      <link>https://www.bbc.com/news/science-environment-68402386/</link>
+      <description>Encuentran a un pequeño pez haciendo mucho ruido</description>
+      <author>a23rahoal@iesgrancapitan.org(Alberto Ramos Hornero)</author>
+      <pubDate>Sun, 25 Feb 2024 12:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
